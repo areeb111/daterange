@@ -20,7 +20,7 @@
     "sort-packages": true
   },
   "require": {
-    "php": "^7.1"
+    "php": ">=7.1.0"
   },
   "require-dev": {
     "brain/monkey": "^2.2",
